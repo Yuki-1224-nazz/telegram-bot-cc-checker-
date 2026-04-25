@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "443f26ee84ba84faee7b48782b854881",
+    "packages": [
+        {
+            "name": "greezlu/capsolver-php",
+            "version": "0.9.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/greezlu/capsolver-php.git",
+                "reference": "5bbc1cc6e9fa9603821090908881f5c87ded2c1d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/greezlu/capsolver-php/zipball/5bbc1cc6e9fa9603821090908881f5c87ded2c1d",
+                "reference": "5bbc1cc6e9fa9603821090908881f5c87ded2c1d",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Capsolver\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "greezlu",
+                    "email": "greezlu@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/greezlu/capsolver-php/issues",
+                "source": "https://github.com/greezlu/capsolver-php/tree/v0.9.4"
+            },
+            "time": "2025-05-29T18:48:30+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}

@@ -30,9 +30,9 @@ $google_translate_api = "AIzaSyCSjrLA6cdxckg0fvMBA4qpgbVpwZlDBCY";  // API Key d
 // =======================================================
 // Configuración para servicios de proxy (opcional)
 $proxy_config = [
-    'server' => 'YOUR_PROXY_SERVER',               // Ejemplo: 'proxy.example.com:8080'
-    'auth' => 'YOUR_PROXY_USERNAME:YOUR_PROXY_PASSWORD',  // Autenticación del proxy
-    'type' => 'SOCKS5'                             // Tipo de proxy: SOCKS5, HTTP, etc.
+    'server' => 'change5.owlproxy.com:7778',               // Ejemplo: 'proxy.example.com:8080'
+    'auth' => 'XbEnx4vfL130_custom_zone_PH_st__city_sid_73856599_time_5:2900775',  // Autenticación del proxy
+    'type' => 'HTTP'                             // Tipo de proxy: SOCKS5, HTTP, etc.
 ];
 
 // =======================================================

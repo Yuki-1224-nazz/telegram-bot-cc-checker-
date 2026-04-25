@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '2204e0c2aeaab5b0d4076ea5b9995b83ed244dfa',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '2204e0c2aeaab5b0d4076ea5b9995b83ed244dfa',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'landrok/language-detector' => array(
+            'pretty_version' => '1.4.0',
+            'version' => '1.4.0.0',
+            'reference' => '91511a4f93700bd1c4c576b0e3b42173334a3cab',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../landrok/language-detector',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'webmozart/assert' => array(
+            'pretty_version' => '1.12.1',
+            'version' => '1.12.1.0',
+            'reference' => '9be6926d8b485f55b9229203f962b51ed377ba68',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../webmozart/assert',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

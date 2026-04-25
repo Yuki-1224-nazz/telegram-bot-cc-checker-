@@ -15,8 +15,8 @@ define('DB_NAME', 'YOUR_DATABASE_NAME');           // Nombre de tu base de datos
 // =======================================================
 // CONFIGURACIÓN DEL BOT DE TELEGRAM
 // =======================================================
-$botToken = "YOUR_BOT_TOKEN_HERE";                 // Token de tu bot de Telegram (@BotFather)
-$Mi_Id = "YOUR_TELEGRAM_USER_ID";                  // Tu ID de usuario de Telegram
+$botToken = "8696523475:AAHLOTL_GI5OOTxzJI26zwhPvHAMoBvTJAE";                 // Token de tu bot de Telegram (@BotFather)
+$Mi_Id = "5028065177";                  // Tu ID de usuario de Telegram
 $website = "https://api.telegram.org/bot" . $botToken;
 
 // =======================================================

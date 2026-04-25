@@ -23,7 +23,7 @@ $website = "https://api.telegram.org/bot" . $botToken;
 // CONFIGURACIÓN DE APIs EXTERNAS
 // =======================================================
 // Google Translate API
-$google_translate_api = "YOUR_GOOGLE_TRANSLATE_API_KEY";  // API Key de Google Cloud Translate
+$google_translate_api = "AIzaSyCSjrLA6cdxckg0fvMBA4qpgbVpwZlDBCY";  // API Key de Google Cloud Translate
 
 // =======================================================
 // CONFIGURACIÓN DE PROXIES/VPNS
